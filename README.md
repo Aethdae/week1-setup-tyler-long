@@ -6,6 +6,10 @@
 - VS Code 1.109.0
 - Git 2.52.0.windows.1
 
+## ACP Log
+
+![alt text](image-2.png)
+
 ## Git Config
 
 ![alt text](image-1.png)
